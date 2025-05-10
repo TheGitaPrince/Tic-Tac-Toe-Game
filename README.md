@@ -6,8 +6,7 @@ A simple and fun **Tic Tac Toe (X-O)** game built using **HTML, CSS, and Vanilla
 
 ## 🖥️ Live Demo
 
-> [🔗 Click here to play the game](#)  
-(Replace `#` with your GitHub Pages or Netlify link if deployed)
+> [🔗 Click here to play the game](https://tic-tac-toe-game-eta-two.vercel.app/)
 
 ---
 
